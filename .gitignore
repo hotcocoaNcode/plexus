@@ -1,0 +1,4 @@
+*.mbn
+**/.DS_Store
+*/build
+build/
